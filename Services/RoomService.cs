@@ -15,7 +15,8 @@ namespace CONnect.Services
         }
         public bool Create(Room item)
         {
-            throw new NotImplementedException();
+            int fisk = 1;
+            return true;
         }
 
         public List<Room> GetAll()
